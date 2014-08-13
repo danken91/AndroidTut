@@ -1,4 +1,4 @@
 AndroidTut
 ==========
 
-Basic android
+Basic android GG this is the new stuff
